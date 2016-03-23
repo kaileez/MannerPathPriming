@@ -1,4 +1,4 @@
-Participant #,Experiment,Verb Condition,Video File,Video Release,Gender,Days Old,Age.Years,Age.Months,Where Conducted,Experimenter,Notes,Inclusion Decision,Exclude Reason,Blind Code?,2nd Coder,zzz,zzzzz,zzzzzz,Columns for old variable names,Experiment Group,Has video release?,Condition
+Participant #,Experiment,Verb Condition,Video File,Video Release,Gender,Days Old,Age.Years,Age.Months,Where Conducted,Experimenter,Notes,Inclusion Decision,Exclude Reason,Blind Code?,2nd Coder,zzz,zzzzz,zzzzzz,Legacy columns ->,Experiment Group,Has video release?,Condition
 1,Pilot,Manner,MannerPath_101615,VR,F,1816,4,11,Harvard,Melissa,"Very first kid! She was very pleased about the stars, clearly found it very straightforward. I read the wrong consent form and called her by her sister's name for whole first part of the session!",0,Pilot,NA,,,,,,Pilot,1,Manner-Agentive
 2,Pilot,Manner,NA,VR,M,2105,5,9,Harvard,Melissa,"Got through 6 trials: (he hit space at the wrong moment.) I failed to record video!  Thought the task was reeeeely easy, sighing during repeats on training videos",0,Pilot,NA,,,,,,Pilot,1,Manner-Agentive
 3,Pilot,Path,MannerPath_103015,VR,F,1792,4,10,Harvard,Annelot,Bilingual (Turkish = path bias),0,Pilot,NA,,,,,,Pilot,1,Path-Agent
@@ -62,39 +62,16 @@ Participant #,Experiment,Verb Condition,Video File,Video Release,Gender,Days Old
 61,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_012916_2,No VR,F,1697,4,7,Preschool,Annelot,Focused & she liked the task,1,,,,,,,,2,0,Effect-Extension
 62,E2 - ActionEffect extend to MannerPath,Action,MannerPath_012916_3,No VR,F,1523,4,2,Preschool,Annelot,"She liked the task a lot and made a lot of comments on the videos (that's knocking over, I don't like my sandwich smashed)",1,,,,,,,,2,0,Means-Extension
 63,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_012916_4,VR,M,1961,5,4,Preschool,Annelot,"He was a bit hesitant at the beginning. He liked the task, asked questions about the videos, why is the monster doing that?",1,,,,,,,,2,1,Effect-Extension
-,,,,,,,,,,,,,,,,,,,,,,
 64,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_020516_1,No VR,F,1664,4,6,Harvard,Melissa,"Sister in the room, but not too distracting",1,,,,,,,,2,0,Effect-Extension
 65,E2 - ActionEffect extend to MannerPath,Action,MannerPath_020616_1,VR,M,1959,5,4,Harvard,Melissa,"Really funny, lots of commentary. ""Hey, that's my lunch! That's a mischevious monster!""  On bend-pliars-candle scene (""klebbing""), said ""Why didn't he just CLIP it"" + scissor motions",1,,,,,,,,2,1,Means-Extension
 66,E2 - ActionEffect extend to MannerPath,Action,SHOULD BE MannerPath_021016_1,VR,M,2238,6,1,Harvard,Nason,He reeeally liked the stars and the color selection. He especially like the rainbow arrangement. Overall he enjoyed the game!,1,NEED VID,"I cannot find this movie on the server, Nason can you move it to Snedeker Lab Files/Melissa_Kline/Experiment Video/MannerPathPriming",,,,,,2,1,Means-Extension
 67,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_021116_1,VR,M,1709,4,8,Harvard,Rebecca,Kid was a bit inattentive but made it through the game,1,,,,,,,,2,1,Effect-Extension
 68,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_021616_1,VR,F,1909,5,2,Harvard,Melissa,"Very on task and quiet :) Went very smoothly. Some Japanese input (observed, forgot to ask)",1,,,,,,,,2,1,Effect-Extension
-68,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_021616_1,VR,F,1909,5,2,Harvard,Melissa,"Very on task and quiet :) Went very smoothly. Some Japanese input (observed, forgot to ask)",1,,,,,,,,2,1,Effect-Extension
-68,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_021616_1,VR,F,1909,5,2,Harvard,Melissa,"Very on task and quiet :) Went very smoothly. Some Japanese input (observed, forgot to ask)",1,,,,,,,,2,1,Effect-Extension
-68,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_021616_1,VR,F,1909,5,2,Harvard,Melissa,"Very on task and quiet :) Went very smoothly. Some Japanese input (observed, forgot to ask)",1,,,,,,,,2,1,Effect-Extension
-69,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a ,n/a,Nason,n/a,,??,"FIX - This is a participant, got sent home :(",,,,,,,,
-69,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a ,n/a,Nason,n/a,,??,"FIX - This is a participant, got sent home :(",,,,,,,,
-69,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a ,n/a,Nason,n/a,,??,,,,,,,,,
-69,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a ,n/a,Nason,n/a,,,,,,,,,,,
-70,E2 - ActionEffect extend to MannerPath,Action,MannerPath_021816,No VR,M,1838,5,0,Harvard,Nason,He was very engaged. There was minimal figiting. ,0,Didn't finish E2; could be part of an ActionEffect only set,,,,,,,,,
-70,E2 - ActionEffect extend to MannerPath,Action,MannerPath_021816,No VR,M,1838,5,0,Harvard,Nason,He was very engaged. There was minimal figiting. ,0,Didn't finish E2; could be part of an ActionEffect only set,,,,,,,,,
-70,E2 - ActionEffect extend to MannerPath,Action,MannerPath_021816,No VR,M,1838,5,0,Harvard,Nason,He was very engaged. There was minimal figiting. ,0,Didn't finish E2; could be part of an ActionEffect only set,,,,,,,,,
-70,E2 - ActionEffect extend to MannerPath,Action,MannerPath_021816,No VR,M,1838,5,0,Harvard,Nason,He was very engaged. There was minimal figiting. ,,MatLab crashed half way through the experiment :(,,,,,,,,,
-71,E2 - ActionEffect extend to MannerPath,Effect,N/A,No VR,M,2123,5,10,Harvard,Rebecca,"Really patient and attentive kid. Run last-minute in Shannon, no video; calculated age but not with online age calculator, came in on 2/20, may want to recalc",1,,,,,,,,,,
-71,E2 - ActionEffect extend to MannerPath,Effect,N/A,No VR,M,2123,5,10,Harvard,Rebecca,"Really patient and attentive kid. Run last-minute in Shannon, no video; calculated age but not with online age calculator, came in on 2/20, may want to recalc",1,,,,,,,,,,
-71,E2 - ActionEffect extend to MannerPath,Effect,N/A,No VR,M,2123,5,10,Harvard,Rebecca,"Really patient and attentive kid. Run last-minute in Shannon, no video; calculated age but not with online age calculator, came in on 2/20, may want to recalc",1,,,,,,,,,,
-71,E2 - ActionEffect extend to MannerPath,Effect,N/A,No VR,M,2123,5,10,Harvard,Rebecca,"Really patient and attentive kid. Run last-minute in Shannon, no video; calculated age but not with online age calculator, came in on 2/20, may want to recalc",1,,,,,,,,,,
-72,E2 - ActionEffect extend to MannerPath,Effect,,,F,2142,5,11,Harvard,Rebecca,"Another really patient kid.  Figured out video in Shannon, not sure how much you can see though - kid shuffled herself over so that her back was directly to the camera; calculated age but not with online age calculator, came in on 2/20, may want to recalc",1,,,,,,,,,,
-72,E2 - ActionEffect extend to MannerPath,Effect,,,F,2142,5,11,Harvard,Rebecca,"Another really patient kid.  Figured out video in Shannon, not sure how much you can see though - kid shuffled herself over so that her back was directly to the camera; calculated age but not with online age calculator, came in on 2/20, may want to recalc",1,,,,,,,,,,
-72,E2 - ActionEffect extend to MannerPath,Effect,,,F,2142,5,11,Harvard,Rebecca,"Another really patient kid.  Figured out video in Shannon, not sure how much you can see though - kid shuffled herself over so that her back was directly to the camera; calculated age but not with online age calculator, came in on 2/20, may want to recalc",1,,,,,,,,,,
-72,E2 - ActionEffect extend to MannerPath,Effect (?),,,F,2142,5,11,Harvard,Rebecca,"Another really patient kid.  Figured out video in Shannon, not sure how much you can see though - kid shuffled herself over so that her back was directly to the camera; calculated age but not with online age calculator, came in on 2/20, may want to recalc",1,,,,,,,,,,
-73,MeansEffect,Effect,MannerPath_030216,VR,F,1989,5,5,Harvard,Nason,"Very active. Trouble focussing. ""This is boring"". Had to take a movement break. Yet, loved the stars",1,,,,,,,,,,
-74,E2 - ActionEffect extend to MannerPath,Action,,VR,M,,,,Harvard,Rebecca,,,,,,,,,,,,
-75,MeansEffect,Effect,MannerPath_030716_1,VR,M,1939,5,3,Harvard,Nason,"Very curious, focused, and loved the stars!",1,,,,,,,,,,
-<<<<<<< Updated upstream,,,,,,,,,,,,,,,,,,,,,,
-<<<<<<< Updated upstream,,,,,,,,,,,,,,,,,,,,,,
-=======,,,,,,,,,,,,,,,,,,,,,,
-=======,,,,,,,,,,,,,,,,,,,,,,
-=======,,,,,,,,,,,,,,,,,,,,,,
->>>>>>> Stashed changes,,,,,,,,,,,,,,,,,,,,,,
->>>>>>> Stashed changes,,,,,,,,,,,,,,,,,,,,,,
->>>>>>> Stashed changes,,,,,,,,,,,,,,,,,,,,,,
+69,E2 - ActionEffect extend to MannerPath,NA,NA,NA,NA,NA,NA,NA,Harvard,Nason,"sent home without finishing, code broke - Emailed annelot and fixed with 1 line of code  Consent form: ""NO RUN"". Note there is not matlab file #69!",0,Experimenter error,,,,,,,,,
+70,E2 - ActionEffect extend to MannerPath,Action,MannerPath_021816,No VR,M,1838,5,0,Harvard,Nason,"He was very engaged. There was minimal figiting. MatLab reported crashed half way through the experiment :( Created data in a file 70 &  and addition file 71, but no clear record of what exactly happened.",0,Experimenter error,,,,,,,,,
+71,E2 - ActionEffect extend to MannerPath,Effect,No Video,No VR,M,2154,5,10,Harvard,Rebecca,"Really patient and attentive kid. Run last-minute in Shannon, no video; calculated age but not with online age calculator, came in on 2/20, may want to recalc",1,,,,,,,,,,
+72,E2 - ActionEffect extend to MannerPath,Effect,SHOULD HAVE,,F,2174,5,11,Harvard,Rebecca,"Another really patient kid.  Figured out video in Shannon, not sure how much you can see though - kid shuffled herself over so that her back was directly to the camera; calculated age but not with online age calculator, came in on 2/20, may want to recalc",1,,,,,,,,,,
+73,E2 - ActionEffect extend to MannerPath,NA,,,,2032,,,Harvard,Rebecca,Crashed 2/20 kid,0,Experimenter error,,,,,,,,,
+74,E2 - ActionEffect extend to MannerPath,Action,,VR,M,1642,,,Harvard,Rebecca,"MPP_Extension_Action_Effect(99,’Action’), Successful intro then broke in the middle of some trial",0,Experimenter error,,,,,,,,,
+75,MeansEffect,Effect,MannerPath_030216,VR,F,1989,5,5,Harvard,Nason,"Very active. Trouble focussing. ""This is boring"". Had to take a movement break. Yet, loved the stars",1,,,,,,,,,,
+76,MeansEffect,Effect,MannerPath_030716_1,VR,M,1937,5,3,Harvard,Nason,"Very curious, focused, and loved the stars!",1,,,,,,,,,,
