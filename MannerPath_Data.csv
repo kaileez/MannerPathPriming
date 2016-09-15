@@ -107,7 +107,7 @@ Participant #,Experiment,Verb Condition,Video File,Video Release,Gender,Days Old
 107,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_06302016,VR,M,1883,5,1,WJH,Anna,"Did well, got tired in the middle but made it through to the end ",1,,,,,,,,,,
 108,E2 - ActionEffect extend to MannerPath,Action,MannerPath_07062016_1,VR,F,1616,4,5,Shannon,Anna,Did great,1,,,,,,,,,,
 109,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_07062016_2,VR,M,1508,4,1,Shannon,Anna,A little fussy at beginning but then did fine,1,,,,,,,,,,
-110,E2 - ActionEffect extend to MannerPath,Action,MannerPath_07082016_1,VR,M,1782,4,10,Shannon,Anna,"Did great. Tech problems - Matlab crashed at beginning, screen went black during a few trials",,,,,,,,,,,
+110,E2 - ActionEffect extend to MannerPath,Action,MannerPath_07082016_1,VR,M,1782,4,10,Shannon,Anna,"Did great. Tech problems - Matlab crashed at beginning, screen went black during a few trials",,"See doc ""Subject 110"" inside Anna folder for list of trials were videos went blank",,,,,,,,,
 111,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_07082016_2,VR,M,1548,4,2,Shannon,Anna,Took a long time to point and uncertain during first trials but after that did fine,1,,,,,,,,,,
 112,E2 - ActionEffect extend to MannerPath,Action,MannerPath_07122016,VR,M,1560,4,3,Shannon,Anna,Chatty and sometimes fidgety but did well ,1,,,,,,,,,,
 113,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_07142016_1,VR,F,1831,5,0,WJH,Anna,Did great but cannot be included because she already did the study,0,This subject was already run in the study,,,,,,,,,
