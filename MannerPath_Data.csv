@@ -45,7 +45,7 @@ Participant #,Experiment,Verb Condition,Video File,Video Release,Gender,Days Old
 44,E2 - ActionEffect extend to MannerPath,Action,MannerPath_012816_9,VR,F,1585,4,4,Preschool,Melissa,"Very shy! Watched from the doorway, then from behind teacher's back.  She made one or 2 tiny nods when teacher asked 'is it this one?'  Then the script broke because I didn't debug it right.",0,Broken script,,,,,,,2,1,
 45,E1 - MannerPath,Manner,MannerPath_012816_1,VR,M,1715,4,8,Preschool,Annelot,"Wrong answer 2nd noun training. At the beginning I couldnêt see where he was pointing, check videos, he might have changed? Was very focused, only commented twice on the videos and only started talking about the stars during the end._",1,,,,,,,,1,1,Manner-Agentive
 46,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_012816_10,VR,M,1595,4,4,Preschool,Melissa,"On trial 8 (?) of the main part he pointed before both movies were onscreen. Here & In general I took their first point once both movies were onscreen as the response, and reminded them to wait if they were pointing early.  Several more early points during extension, might want to rewatch/recode for response accuracy (Speech language)",1,,,,,,,,2,1,
-47,E1 - MannerPath,Path,MannerPath_012816_2,No VR,F,1670,4,6,Preschool,Annelot,She liked the task! She made giggly noises and made comments/asked questions about the monster. Sometimes she was hesitant and asked for verification _is it this one?” and kept changing sides._,1,,,,,,,,1,0,Path-Agent
+47,E1 - MannerPath,Path,MannerPath_012816_2,No VR,F,1670,4,6,Preschool,Annelot,She liked the task! She made giggly noises and made comments/asked questions about the monster. Sometimes she was hesitant and asked for verification _is it this one?Ó and kept changing sides._,1,,,,,,,,1,0,Path-Agent
 48,E2 - ActionEffect extend to MannerPath,Action,MannerPath_012816_11,VR,F,1820,4,11,Preschool,Melissa,Again lots of points after 1st movie. Pies aren't for gossing! (combing) - but then chose outcome at test for that trial!,0,Didn't finish E2; could be part of an ActionEffect only set,,,,,,,2,1,
 49,E1 - MannerPath,Path,MannerPath_012816_3,VR,M,1839,5,0,Preschool,Annelot,He said he didn't know what glorfin in the noun training means and I needed to help him in order to be able to make a guess. He liked the task a lot! Made comments etc about the monster.,1,,,,,,,,1,1,Path-Agent
 50,E2 - ActionEffect extend to MannerPath,Effect,MannerPath_012816_12,VR,M,1589,4,4,Preschool,Melissa,"Didn't turn on the video camera until after the noun trials.  She came in late & out of order, only stayed for 2 trials",0,Not finished,,,,,,,2,1,
@@ -154,6 +154,17 @@ Participant #,Experiment,Verb Condition,Video File,Video Release,Gender,Days Old
 154,E3 - MannerPath extend to ActionEffect,Manner,MannerPath_20170208,VR,F,1904,5,2,WJH,Melissa,Did well!,1,,,,,,,,,,
 155,E3 - MannerPath extend to ActionEffect,Path,MannerPath_021117,VR,F,2080,5,8,WJH,Becky,,,,,,,,,,,,
 156,E3 - MannerPath extend to ActionEffect,Manner,MannerPath_021717,no VR,F,1796,4,11,Shannon,Becky,Did well! **Need to go back and code bias trial 1 as n/a--I think she may have been confused about what she was supposed to do/wouldn't give an answer,,,,,,,,,,,
-157,,,,,,,,,,,,,,,,,,,,,,
-158,,,,,,,,,,,,,,,,,,,,,,
-159,E3 - MannerPath extend to ActionEffect,Path,MannerPath_20170224,VR,F,1882,5,1,WJH,Melissa,"Got tired toward the end but powered through, some side conversations about dinosaur bones, I tried to limit them to between trials.  Very manner biased, inc in the same-verb tests. Lots of 'translating' of verbs into english, the motion actions were always both, e.g. 'molking means hopping around'. + some explaining reasoning for choices in the CoS trials.",1,,,,,,,,,,
+157,E3 - MannerPath extend to ActionEffect,Path,MannerPath_021817,,F,1731,,,Shannon,Becky,Definitely not monolingual,,,,,,,,,,,
+158,E3 - MannerPath extend to ActionEffect,Manner,MannerPath_022217,,M,1617,,,WJH,Becky,,,,,,,,,,,,
+159,E3 - MannerPath extend to ActionEffect,Path,MannerPath_022417.mp4,VR,F,1882,5,1,WJH,Melissa,"Got tired toward the end but powered through, some side conversations about dinosaur bones, I tried to limit them to between trials.  Very manner biased, inc in the same-verb tests. Lots of 'translating' of verbs into english, the motion actions were always both, e.g. 'molking means hopping around'. + some explaining reasoning for choices in the CoS trials.",1,,,,,,,,,,
+160,E3 - MannerPath extend to ActionEffect,Manner,MannerPath_022417_2,,F,2124,5,9,WJH,Becky,,,,,,,,,,,,
+161,E3 - MannerPath extend to ActionEffect,Path,MannerPath_022417_3,,F,1940,5,3,Shannon,Becky,,,,,,,,,,,,
+162,E3 - MannerPath extend to ActionEffect,Manner,MannerPath_022517_1,,M,1494,4,1,WJH,Becky,,,,,,,,,,,,
+163,E3 - MannerPath extend to ActionEffect,Path,MannerPath_022517_2,,M,1659,4,6,Shannon,Becky,,,,,,,,,,,,
+164,E3 - MannerPath extend to ActionEffect,Manner,MannerPath_030117,,F,1789,4,10,WJH,Becky,,,,,,,,,,,,
+165,E3 - MannerPath extend to ActionEffect,Path,MannerPath_030317,,F,1718,4,8,Shannon,Becky,,,,,,,,,,,,
+166,E3 - MannerPath extend to ActionEffect,Manner,MannerPath_030417_1,,M,1918,5,3,WJH,Becky,,,,,,,,,,,,
+167,E3 - MannerPath extend to ActionEffect,Path,MannerPath_030417_2,,M,1742,4,8,Shannon,Becky,,,,,,,,,,,,
+168,E3 - MannerPath extend to ActionEffect,Manner,MannerPath_030417_3,,M,1735,4,9,Shannon,Becky,,,,,,,,,,,,
+169,E3 - MannerPath extend to ActionEffect,Path,MannerPath_030817,,M,1531,4,2,WJH,Becky,,,,,,,,,,,,
+170,E3 - MannerPath extend to ActionEffect,,,,,,,,,,,,,,,,,,,,,
